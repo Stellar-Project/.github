@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/discord/TON_ID_DISCORD?color=5865F2&label=Discord&logo=discord&style=for-the-badge" alt="Discord">
   </a>
   <a href="https://iegogalaxy.fr">
-    <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Site%20Web&style=for-the-badge&up_color=success&up_message=Online&url=https%3A%2F%2ton-site-web.com" alt="Website">
+    <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Site%20Web&style=for-the-badge&up_color=success&up_message=Online&url=https://iegogalaxy.fr" alt="Website">
   </a>
   <img src="https://img.shields.io/badge/Status-Actif-brightgreen?style=for-the-badge" alt="Status">
 </div>
