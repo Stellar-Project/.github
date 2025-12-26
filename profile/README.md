@@ -3,8 +3,8 @@
   <h1>Stellar Project</h1>
   <p><strong>L'équipe derrière la traduction française d'Inazuma Eleven GO Galaxy.</strong></p>
 
-  <a href="https://discord.gg/ton-lien-discord">
-    <img src="https://img.shields.io/discord/TON_ID_DISCORD?color=5865F2&label=Discord&logo=discord&style=for-the-badge" alt="Discord">
+  <a href="https://discord.gg/mtJ2EzxMkt">
+    <img src="https://img.shields.io/discord/590070698140237826?color=5865F2&label=Discord&logo=discord&style=for-the-badge" alt="Discord">
   </a>
   <a href="https://iegogalaxy.fr">
     <img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Site%20Web&style=for-the-badge&up_color=success&up_message=Online&url=https://iegogalaxy.fr" alt="Website">
